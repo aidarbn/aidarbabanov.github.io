@@ -1,0 +1,69 @@
+baseURL: "http://example.org/"
+languageCode: en-us
+title: BabanovBlog
+theme: minimal-bootstrap-hugo-theme
+taxonomies:
+  category: categories
+  post: posts
+permalinks:
+  post: "/:filename/"
+params:
+  description: Some description
+  contentBackgroundColor: "#fff"
+  contentTextColor: "#212529"
+  contentLinkColor: "#007bff"
+  contentLinkHoverColor: "#0056b3"
+  navbarBackgroundColor: "#007474"
+  navbarLinkColor: "rgba(255, 255, 255, 0.75)"
+  navbarLinkHoverColor: "rgba(255, 255, 255, 1)"
+  wrapperMaxWidth: 800px
+  customDateFormat: "Jan 2, 2006"
+  customCodeStyle: true
+  customBlockquoteStyle: true
+  showPostSummary: false
+  cookieConsent: true
+  includeBootstrapJs: false
+  faviconSafariPinnedTabColor: "#5bbad5"
+  faviconMsApplicationTileColor: "#da532c"
+  faviconThemeColor: "#ffffff"
+menu:
+  nav:
+    - name: Posts
+      url: /
+      weight: 1
+    - name: Categories
+      url: /categories/
+      weight: 2
+    - name: About
+      url: /about/
+      weight: 3
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: true
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
