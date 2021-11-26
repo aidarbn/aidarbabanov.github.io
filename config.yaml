@@ -4,6 +4,7 @@ title: BabanovBlog
 theme: minimal-bootstrap-hugo-theme
 taxonomies:
   category: categories
+  tag: tags
   post: posts
 permalinks:
   post: "/:filename/"
@@ -33,6 +34,9 @@ menu:
       weight: 1
     - name: Categories
       url: /categories/
+      weight: 2
+    - name: Tags
+      url: /tags/
       weight: 2
     - name: About
       url: /about/
