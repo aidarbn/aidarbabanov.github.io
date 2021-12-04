@@ -1,52 +1,52 @@
 ---
 title: "My First Post"
 date: 2021-11-27T03:40:45+06:00
-draft: true
+draft: false
 categories: ["Job Search"]
 tags: [story]
 ---
 
-## Что и зачем?
+## What and why?
 
-Наверное каждый разработчик рано или поздно решается, что он готов продвинуться дальше и попытать счастье в работе на топ компанию.
-Такие компании зовутся FAANG (Facebook, Amazon, Apple, Netflix и Google). С недавнего времени, одна компания стала называться иначе.
-Facebook переименовался в Meta. [Тут картинка смены названия компании]. Так что, чисто технически аббревиатуру можно сменить на MAANG.
+Probably every developer sooner or later decides that he is ready to move forward and try his luck in working for a top company.
+These companies are called FAANG (Facebook, Amazon, Apple, Netflix and Google). More recently, one company has changed its name.
+Facebook was renamed Meta. So, technically, the acronym can be changed to MAANG.
 
-Туториалы как попасть в топ компанию я писать не буду, так как такой информации в интернете очень много и создавать дубликат такого контента будет бессмысленно. Данный блог скорее предназначен, чтобы отслеживать свой прогресс и систематизирвать подготовку. Я создам план, сохраню ресурсы и буду делать недельные отчеты, а возможно и чаще.
+I will not write tutorials on how to get into the top company, since there is a lot of such information on the Internet and it will be pointless to create a duplicate of such content. Rather, this blog is intended to track your progress and organize your training. I will create a plan, save resources and do weekly reports, and possibly more often.
 
-Если честно я пока не ощутил смысла зачем мне нужно работать в топ компании, скорее я просто хочу ощутить челлендж в поиске работы и заработать деньги на самой работе. Я в поисках своего смысла жизни, и возможно умные люди в хороших компаниях откроют для меня секрет счастья, а возможно новая страна и атмосфера поможет понять о чем стоит мечтать. Короче говоря, все хотят и я хочу.
+To be honest, I have not yet felt the point of why I need to work in a top company, rather, I just want to feel the challenge in finding a job and make money at the job itself. I am in search of my meaning in life, and perhaps smart people in good companies will reveal the secret of happiness for me, and perhaps a new country and atmosphere will help me understand what is worth dreaming about. In short, it has become fashionable to look for a job in a top company.
 
-Мой основной ресурс по подготовке будет: [Interview School](https://interviews.school/) от Адилета Жаксыбай. Тут описан весь путь подготовки со всеми нюансами. По словам Адилета, процесс интервью состоит из четырех основных этапов: Подача резюме в компанию, онлайн интервью, выездное интервью и обсуждение предложения о работе. Каждый из этапов имеют свои сложности и процедуры.
+My main preparation resource will be: [Interview School] (https://interviews.school/) from Adilet Zhaksybai. The whole path of preparation is described here with all the nuances. According to Adilet, the interview process consists of four main stages: CV submission to the company, online interviews, field interviews, and job offer discussion. Each of the stages has its own difficulties and procedures.
 
-Я хочу найти работу в течении полугода. Почему пол года? Наверное потому что, это тот период времени когда можно очень тщательно подготовиться и не пропустить ничего. Даем себе срок в расслабленном темпе поработать. Я решил, что каждую неделю я буду делать посты отчеты о том как продвигается моя подготовка. Таким образом каждую неделю можно вести динамику изменений.
+I want to find a job within six months. Why half a year? Probably because, this is the period of time when you can prepare very carefully and not miss anything. We give ourselves time to work at a relaxed pace. I decided that every week I would post reports on how my preparation was progressing. Thus, every week, I can keep track of the dynamics of changes.
 
-### Об этапах
+### Stages
 
-**Подача резюме.**
+**Applying to the company.**
 
-Можно выделить несколько действий которые нужно делать:
+There are several actions that need to be done:
 
-- Переписывать свою резюме
-- Давать его на проверку опытным людям
-- Искать новых читателей резюме для получения новых советов
-- Искать офферы
+- Rewrite your resume
+- Give it to experienced people for verification
+- Seek new resume readers for new tips
+- Search for offers
 
-**Онлайн интервью:**
+**Online interview:**
 
-- Научиться решать задачи быстро
-- Научиться решать сложные задачи
-- Выучить нужные типы задач
-- Много практики
-- Умения объяснять свое решение в процессе решения
+- Learn to solve problems quickly
+- Learn to solve complex problems
+- Learn the types of tasks you need
+- Lots of practice
+- Ability to explain your decision in the decision process
 
-**Выездное интервью.**
+**Onsite interviews.**
 
-По сути тоже что и онлайн интервью, но с личным присутствием в компании. На данном этапе важно показать свои soft skills. Но мне еще предстоит узнать что должно быть на этом этапе интервью.
+Essentially the same as an online interview, but with a personal presence in the company. At this stage, it is important to show your soft skills. But I have yet to find out what should be at this stage of the interview.
 
-**Обсуждение предложения о работе.**
+**Discussion of the job offer.**
 
-Эта часть для меня вообще не известна. Скорее всего на этапе обговариваются условия работы и зарплата. Скорее всего стоит узнать как живется в той или иной стране.
+This part is not known to me at all. Most likely, at the stage, working conditions and wages are discussed. Most likely it is worth finding out how life is in a particular country.
 
-### Заключение
+### Conclusion
 
-Кроме всех этих вещей стоит постоянно искать новую информацию по топ компаниям, фишкам и тд. Да начнется игра!
+In addition to all these things, it is worth constantly looking for new information on top companies, chips, etc. Let the game begin!
