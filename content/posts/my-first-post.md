@@ -45,8 +45,8 @@ Essentially the same as an online interview, but with a personal presence in the
 
 **Discussion of the job offer.**
 
-This part is not known to me at all. Most likely, at the stage, working conditions and wages are discussed. Most likely it is worth finding out how life is in a particular country.
+This part is not known to me at all. Most likely, at this stage, working conditions and wages are discussed. It is worth finding out how expensive is life in a particular country.
 
 ### Conclusion
 
-In addition to all these things, it is worth constantly looking for new information on top companies, chips, etc. Let the game begin!
+In addition to all these things, it is worth constantly looking for new information on top companies, tips, tricks and etc. Let the game begin!
