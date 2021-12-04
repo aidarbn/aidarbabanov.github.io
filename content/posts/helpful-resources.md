@@ -1,7 +1,7 @@
 ---
 title: "Helpful Resources Related to MAANG Job Search"
 date: 2021-12-04T16:58:59+06:00
-draft: true
+draft: false
 categories: ["Job Search"]
 tags: ["hints"]
 ---
