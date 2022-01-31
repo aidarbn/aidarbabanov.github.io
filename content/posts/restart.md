@@ -1,7 +1,7 @@
 ---
 title: "Restart"
 date: 2022-01-31T13:09:51+06:00
-draft: true
+draft: false
 categories: ["Job Search"]
 tags: [story]
 ---
