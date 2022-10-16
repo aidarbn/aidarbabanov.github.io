@@ -1,5 +1,5 @@
 ---
-title: "Go Libs"
+title: "Go Libraries"
 date: 2022-10-15T15:47:00+06:00
 draft: false
 categories: ["Software Engineering"]
