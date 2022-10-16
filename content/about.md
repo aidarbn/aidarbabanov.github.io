@@ -8,4 +8,6 @@ tags: [en]
 
 Hello, my name is Aidar. I am the ruler and humble owner of this site.
 
-I originally wanted to run this blog as a job search blog at FAANG. Now I have decided this blog is going to be about everything that interests me. It just so happened that I'm not interested in finding a job but my health and psychological condition. Of course, I will search for a new job, but the blog will be about everything. Most likely I will be divided into categories, it will be seen.
+I am GO backend software engineer with 4 years of commercial experience.
+
+I don't know exactly purpose of this blog. But sometimes I want to write something to myself. Time will show :).
