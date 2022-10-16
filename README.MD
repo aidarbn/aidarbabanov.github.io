@@ -1,7 +1,7 @@
 # Personal blog of Aidar Babanov
 
 This blog is based on [Hugo static page generator](https://gohugo.io/).
-Huo theme is located [here](https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme).
+Hugo theme is located [here](https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme).
 
 These are commands that can help manage hugo:
 
