@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-03-01T00:28:12+06:00
-draft: true
+draft: false
 categories: []
 tags: [en]
 ---
