@@ -25,3 +25,7 @@ This is a list of Go libraries that I have used and found helpful.
 - [github.com/google/uuid](https://hgithub.com/google/uuid) - UUID generator.
 - [github.com/minio/minio-go](https://github.com/minio/minio-go) - Amazon S3 compatible client.
 - [github.com/uptrace/bun](https://github.com/uptrace/bun) - SQL database ORM.
+- [https://github.com/golang/mock](https://github.com/golang/mock) - Interface mocking tools (I prefer this one).
+- [https://github.com/vektra/mockery](https://github.com/vektra/mockery) - Another mocking tool.
+- [https://github.com/casbin/casbin](https://github.com/casbin/casbin) - Authorization tool, helps to set permissions to users and roles.
+- 
