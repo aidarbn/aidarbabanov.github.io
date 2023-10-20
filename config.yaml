@@ -29,16 +29,16 @@ params:
   faviconThemeColor: "#ffffff"
 menu:
   nav:
-    - name: Posts
+    - name: Посты
       url: /
       weight: 1
-    - name: Categories
+    - name: Категории
       url: /categories/
       weight: 2
-    - name: Tags
+    - name: Тэги
       url: /tags/
       weight: 2
-    - name: About
+    - name: Обо мне
       url: /about/
       weight: 3
 markup:

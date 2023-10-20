@@ -1,13 +1,11 @@
 ---
-title: "About"
-date: 2022-03-01T00:28:12+06:00
+title: "Обо мне"
+date: 2023-10-21T03:45:00+06:00
 draft: false
 categories: []
-tags: [en]
+tags: [ru]
 ---
 
-Hello, my name is Aidar. I am the ruler and humble owner of this site.
+Привет, я - Айдар. Я долго не мог начать вести свой блог. Еще с 2019 хотел куда-то выкладывать свои мысли о программировании.
 
-I am GO backend software engineer with 4 years of commercial experience.
-
-I don't know exactly purpose of this blog. But sometimes I want to write something to myself. Time will show :).
+Сейчас мне 28 лет, мой опыт коммерческого программирования около 5 лет. Работаю в Яндексе. Я GO/C++ бэкенд разработчик.
