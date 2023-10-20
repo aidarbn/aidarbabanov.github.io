@@ -13,4 +13,11 @@ tags: [ru]
 
 Сейчас есть 2 вещи:
     1. Определить сферы которые я бы хотел ускорить.
+        1. auth
+        2. rbac abac
+        3. logging
+        4. validation
+        5. postgres fast connection
+        6. configuration of service
+        7. swagger code generation
     2. Поискать рабочие примеры в интернете.
